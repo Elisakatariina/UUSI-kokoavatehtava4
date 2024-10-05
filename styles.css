@@ -1,0 +1,32 @@
+#navbar {
+    background-color: #343a40; /* Tummanharmaa tausta */
+  }
+  .nav-link {
+    font-weight: bold; /* Rohkeampi fontti */
+  }
+  /* Hampurilaisvalikon viivojen väri */
+  .navbar-toggler {
+    border-color: white; /* Valkoinen reunus */
+  }
+  .navbar-toggler-icon {
+    background-color: white; /* Valkoinen tausta */
+  } 
+
+/*KUVAKARUSELLIN ASETUKSIA*/
+.carousel-inner img { 
+    height: 400px; /* Aseta sopiva korkeus karusellille */
+    object-fit: cover; /* Säilyttää kuvasuhteen ja leikkaa ylimääräisen sisällön */
+}
+
+body {
+    font-family:'Courier New', Courier, monospace;
+}
+
+/*Tekstien sijoitus keskelle*/
+h2 {
+    text-align: center;
+  }
+
+
+  
+
